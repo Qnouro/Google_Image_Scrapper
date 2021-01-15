@@ -1,2 +1,3 @@
-# plants_classifier
-Computer Vision / Deep Learning project
+# Google Image Scrapper
+
+Reusable google image scrapper project
